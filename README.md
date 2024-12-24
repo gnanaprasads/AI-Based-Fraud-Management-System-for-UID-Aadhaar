@@ -100,7 +100,7 @@ The classification, detection, and OCR models are combined into a processing pip
 
 1. Clone the repository:
    
-   git clone https://github.com/yourusername/aadhaar-fraud-management.git
+   git clone https://gnanaprasads/AI-Based-Fraud-Management-System-for-UID-Aadhaar.git
    cd aadhaar-fraud-management
    
 2. Install dependencies:
